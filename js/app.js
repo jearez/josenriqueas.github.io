@@ -4,7 +4,7 @@ const minutesUI = document.getElementById('minutes');
 const secondsUI = document.getElementById('seconds');
 
 
-const countDownDate = new Date('Aug 02, 2022 00:00:00').getTime();
+const countDownDate = new Date('Aug 16, 2022 00:00:00').getTime();
 
 let now = new Date().getTime();
 let time = calcRemainingTime(now);
