@@ -1,3 +1,14 @@
+/* ScroolBar Style */
+
+body::-webkit-scrollbar {
+  width: 5px; }
+
+body::-webkit-scrollbar-track {
+  background:#ffffff; }
+
+body::-webkit-scrollbar-thumb {
+  background-color: #013348; }
+  
 html,
 body,
 div,
